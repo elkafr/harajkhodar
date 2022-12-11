@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965398542262",
+    "project_id": "harajkhodar",
+    "storage_bucket": "harajkhodar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965398542262:android:cf213d67ad2b6eac4a7317",
+        "android_client_info": {
+          "package_name": "com.art4muslim.harajkhodar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965398542262-h9b5hja73gih0fgt3374av3fnjtk8ig8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqbAsNecelKpLziHowF7k2vYjHsUH1ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965398542262-h9b5hja73gih0fgt3374av3fnjtk8ig8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
